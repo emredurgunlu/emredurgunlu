@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Emre'nin Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=emredurgunlu&theme=jolly&show_icons=true)
+![Emre'nin Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=emredurgunlu&theme=omni&show_icons=true)
