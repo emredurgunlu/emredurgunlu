@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/emre-durgunlu-177515211/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="emredurgunlu" height="30" width="30" /> </a> 
+<a href="https://www.linkedin.com/in/emredurgunlu" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="emredurgunlu" height="30" width="30" /> </a> 
 
 
 <h3 align="left">Technologies:</h3>
