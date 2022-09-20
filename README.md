@@ -11,10 +11,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- ⚡ Fun fact: ...
+-->
 - 🌱 I’m currently learning **Rust**
+
 - 💬 Ask me about **Flutter**
+
 - 🚀 My personal page: [**https://emredurgunlu.github.io/**](https://emredurgunlu.github.io/) 
+
 - 📫 How to reach me: **emredurgunlu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -32,7 +36,6 @@ Here are some ideas to get you started:
 <a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 </p>
-
 
 
 ![Emre'nin Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=emredurgunlu&theme=omni&show_icons=true)
