@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** with [Patika.dev Community](https://www.patika.dev/) 
 
 - 💬 Ask me about **Flutter**
 
