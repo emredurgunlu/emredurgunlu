@@ -1,5 +1,4 @@
 ### <h2 align="center">Hi there 👋 I'm Emre</h2>
-
 <!--
 **emredurgunlu/emredurgunlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,8 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Flutter**
 - 🚀 My personal page: [**https://emredurgunlu.github.io/**](https://emredurgunlu.github.io/) 
