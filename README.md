@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Emre'nin Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=emre durgunlu)](https://github.com/anuraghazra/github-readme-stats)
+![Emre'nin Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=emredurgunlu&theme=jolly&show_icons=true)
