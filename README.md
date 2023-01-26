@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Flutter**
 
-- 📃 I write articles on Medium [**Medium**](https://medium.com/@emredurgunlu)
+- 📃 I write articles on [**Medium**](https://medium.com/@emredurgunlu)
 
 - 🚀 My personal page: [**https://emredurgunlu.github.io/**](https://emredurgunlu.github.io/) 
 
