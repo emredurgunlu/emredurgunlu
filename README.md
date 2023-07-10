@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://flutter.dev/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter" width="28" height="28"/> </a> 
-<a href="https://www.rust-lang.org/" target="_blank" rel=”noopener”> <img src="https://blog.logrocket.com/wp-content/uploads/2022/05/ferris-crab-rust-programming-language-official-mascot.png" alt="rust" width="44" height="30"/> </a> 
+<a href="https://www.figma.com./" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="35" height="28"/> </a> 
  
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
