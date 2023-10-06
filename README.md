@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <details>
 <summary>Click For HTML/CSS Projects!</summary>
 <ul>
-<li> https://emredurgunlu.github.io/Netflix-Form/</li>
-<li> https://emredurgunlu.github.io/Marvel-Biographies/</li>
-<li> https://emredurgunlu.github.io/Parallax-WebPage/</li>
+<li> <a href="https://emredurgunlu.github.io/Netflix-Form/" target="_blank" rel="noreferrer">Netflix Form</a></li>
+<li> <a href="https://emredurgunlu.github.io/Marvel-Biographies/" target="_blank" rel="noreferrer">Marvel Biographies</a></li>
+<li> <a href="https://emredurgunlu.github.io/Parallax-WebPage/" target="_blank" rel="noreferrer">Parallax WebPage</a></li>
 </ul>
 </details>
 
