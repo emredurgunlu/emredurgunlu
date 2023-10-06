@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <summary>Click For HTML/CSS Projects!</summary>
 <ul>
 <li> https://emredurgunlu.github.io/Netflix-Form/</li>
-<li> https://emredurgunlu.github.io/marvel-biographies/</li>
+<li> https://emredurgunlu.github.io/Marvel-Biographies/</li>
 <li> https://emredurgunlu.github.io/Parallax-WebPage/</li>
 </ul>
 </details>
