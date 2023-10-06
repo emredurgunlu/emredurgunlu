@@ -23,6 +23,15 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **emredurgunlu@gmail.com**
 
+<details>
+<summary>Click For HTML/CSS Projects!</summary>
+<ul>
+<li> https://emredurgunlu.github.io/Netflix-Form/</li>
+<li> https://emredurgunlu.github.io/marvel-biographies/</li>
+<li> https://emredurgunlu.github.io/Parallax-WebPage/</li>
+</ul>
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/emredurgunlu" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="emredurgunlu" height="30" width="30" /> </a> 
