@@ -69,14 +69,22 @@ Here are some ideas to get you started:
 <a href="https://flutter.dev/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter" width="28" height="28"/> </a> 
 <a href="https://react.dev/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react js" width="35" height="28"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel=”noopener”> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="next js" width="60" height="30"/> </a>
-<a href="https://www.figma.com./" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="28"/> </a>
-<a href="https://www.gimp.org/" target="_blank" rel=”noopener”> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gimp" width="40" height="35"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="35" height="25"/> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel=”noopener”> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="35"/> </a>
+<a href="https://mui.com/" target="_blank" rel=”noopener”> <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" alt="mui" width="35" height="30"/> </a>
+<a href="https://redux-toolkit.js.org/" target="_blank" rel=”noopener”> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="redux" width="40" height="35"/> </a>
+
+
+
  
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://slack.com/" target="_blank" rel=”noopener”> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-256.png" alt="slack" width="25" height="25"/> </a>
 <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
+<a href="https://www.figma.com./" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="28"/> </a>
+<a href="https://www.gimp.org/" target="_blank" rel=”noopener”> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gimp" width="40" height="35"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel=”noopener”> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="jira" width="30" height="30"/> </a>
 </p>
 
 
