@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!--- 🌱 I’m currently learning **Web3 Development** with [Clarusway](https://clarusway.com/web3/) -->
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Next JS, React JS, Flutter**
 
 - 📃 I write articles on [**Medium**](https://medium.com/@emredurgunlu)
 
@@ -24,8 +24,35 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **emredurgunlu@gmail.com**
 
 <details>
+<summary>Click For React JS Projects!</summary>
+<ul>
+<li> <a href="https://github.com/emredurgunlu/Stock-App-FrontEnd/" target="_blank" rel="noreferrer">Stock App</a></li>
+<li> <a href="https://movie-app-emre.netlify.app/" target="_blank" rel="noreferrer">Movie App</a></li>
+<li> <a href="https://tutorial-app-emre.netlify.app/" target="_blank" rel="noreferrer">Todo App</a></li>
+<li> <a href="https://interview-questions-emre.netlify.app/" target="_blank" rel="noreferrer">Interview Questions</a></li>
+<li> <a href="https://doctor-appointment-react-app-emre.netlify.app/" target="_blank" rel="noreferrer">Doctor Appointment</a></li>
+<li> <a href="https://simple-form-emre.netlify.app/" target="_blank" rel="noreferrer">Simple Form</a></li>
+<li> <a href="https://nba-legends-emre.netlify.app/" target="_blank" rel="noreferrer">NBA Legends</a></li>
+</ul>
+</details>
+<details>
+<summary>Click For JS Projects!</summary>
+<ul>
+<li> <a href="https://emredurgunlu.github.io/Responsive-Image-Maps/" target="_blank" rel="noreferrer">Responsive Image Maps</a></li>
+<li> <a href="https://emredurgunlu.github.io/Password-Generator/" target="_blank" rel="noreferrer">Password Generator</a></li>
+<li> <a href="https://emredurgunlu.github.io/Guess-Number/" target="_blank" rel="noreferrer">Guess Number</a></li>
+<li> <a href="https://emredurgunlu.github.io/My-Wallet-App/" target="_blank" rel="noreferrer">My Wallet App</a></li>
+<li> <a href="https://emredurgunlu.github.io/Random-User/" target="_blank" rel="noreferrer">Random User</a></li>
+<li> <a href="https://emredurgunlu.github.io/Github-Follower/" target="_blank" rel="noreferrer">Github Follower</a></li>
+<li> <a href="https://crypto-coin-app-emre.netlify.app/" target="_blank" rel="noreferrer">Crypto Coin App</a></li>
+<li> <a href="https://emredurgunlu.github.io/Checkout-App/" target="_blank" rel="noreferrer">Checkout App</a></li>
+<li> <a href="https://crypto-coin-app-emre.netlify.app/" target="_blank" rel="noreferrer">Crypto Coin App</a></li>
+</ul>
+</details>
+<details>
 <summary>Click For HTML/CSS Projects!</summary>
 <ul>
+<li> <a href="https://kayseri-avukat.vercel.app/" target="_blank" rel="noreferrer">Lawyer Web Site</a></li>
 <li> <a href="https://emredurgunlu.github.io/Netflix-Form/" target="_blank" rel="noreferrer">Netflix Form</a></li>
 <li> <a href="https://emredurgunlu.github.io/Marvel-Biographies/" target="_blank" rel="noreferrer">Marvel Biographies</a></li>
 <li> <a href="https://emredurgunlu.github.io/Parallax-WebPage/" target="_blank" rel="noreferrer">Parallax WebPage</a></li>
@@ -40,11 +67,15 @@ Here are some ideas to get you started:
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://flutter.dev/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter" width="28" height="28"/> </a> 
-<a href="https://www.figma.com./" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="35" height="28"/> </a> 
+<a href="https://react.dev/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react js" width="35" height="28"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel=”noopener”> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="next js" width="60" height="30"/> </a>
+<a href="https://www.figma.com./" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="28"/> </a>
+<a href="https://www.gimp.org/" target="_blank" rel=”noopener”> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gimp" width="40" height="35"/> </a>
  
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
+<a href="https://slack.com/" target="_blank" rel=”noopener”> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-256.png" alt="slack" width="25" height="25"/> </a>
 <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 </p>
 
