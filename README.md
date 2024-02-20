@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 -->
 <!--- 🌱 I’m currently learning **Web3 Development** with [Clarusway](https://clarusway.com/web3/) -->
 
-- 💬 Ask me about **Next JS, React JS, Flutter**
+- 💬 Ask me about **Next JS, React JS, Flutter and Blockchain Tech**
 
 - 📃 I write articles on [**Medium**](https://medium.com/@emredurgunlu)
-
-- 🚀 My personal page: [**https://emredurgunlu.github.io/**](https://emredurgunlu.github.io/) 
-
-- 📫 How to reach me: **emredurgunlu@gmail.com**
 
 <details>
 <summary>Click For React JS Projects!</summary>
