@@ -64,11 +64,16 @@ Here are some ideas to get you started:
 <p align="left"> 
 <a href="https://flutter.dev/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter" width="28" height="28"/> </a> 
 <a href="https://react.dev/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react js" width="35" height="28"/> </a> 
+<a href="https://redux-toolkit.js.org/" target="_blank" rel=”noopener”> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="redux" width="40" height="35"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel=”noopener”> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="next js" width="60" height="30"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="35" height="25"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel=”noopener”> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="35"/> </a>
 <a href="https://mui.com/" target="_blank" rel=”noopener”> <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" alt="mui" width="35" height="30"/> </a>
-<a href="https://redux-toolkit.js.org/" target="_blank" rel=”noopener”> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="redux" width="40" height="35"/> </a>
+<a href="https://www.cypress.io/" target="_blank" rel=”noopener”> <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="cypress" width="35" height="33"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/80px-Typescript_logo_2020.svg.png" alt="cypress" width="35" height="33"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdDEbzuGEA-xv1wo-qG5wt21Gd7HJoaUdWyQ&usqp=CAU" alt="express js" width="65" height="35"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC_kssKzVz-xOR9BM88d12Z3Ushqlg9olUg&usqp=CAU" alt="mongo db" width="65" height="35"/> </a>
+
 
 
 
