@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📃 I write articles on [**Medium**](https://medium.com/@emredurgunlu)
 
 <details>
-<summary><h3><strong>Click For React JS Projects!</strong></h3></summary>
+<summary><big><strong>Click For React JS Projects!</strong></big></summary>
 <ul>
 <li> <a href="https://github.com/emredurgunlu/Stock-App-FrontEnd/" target="_blank" rel="noreferrer">Stock App</a></li>
 <li> <a href="https://movie-app-emre.netlify.app/" target="_blank" rel="noreferrer">Movie App</a></li>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </ul>
 </details>
 <details>
-<summary><h3><strong>Click For JS Projects!</strong></h3></summary>
+<summary><big><strong>Click For JS Projects!</strong></big></summary>
 <ul>
 <li> <a href="https://emredurgunlu.github.io/Responsive-Image-Maps/" target="_blank" rel="noreferrer">Responsive Image Maps</a></li>
 <li> <a href="https://emredurgunlu.github.io/Password-Generator/" target="_blank" rel="noreferrer">Password Generator</a></li>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </ul>
 </details>
 <details>
-<summary><h3><strong>Click For HTML/CSS Projects!</strong></h3></summary>
+<summary><big><strong>Click For HTML/CSS Projects!</strong></big></summary>
 <ul>
 <li> <a href="https://kayseri-avukat.vercel.app/" target="_blank" rel="noreferrer">Lawyer Web Site</a></li>
 <li> <a href="https://emredurgunlu.github.io/Netflix-Form/" target="_blank" rel="noreferrer">Netflix Form</a></li>
