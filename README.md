@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <summary><big><strong>Click For React JS Projects!</strong></big></summary>
 <ul>
 <li> <a href="https://github.com/emredurgunlu/Stock-App-FrontEnd/" target="_blank" rel="noreferrer">Stock App</a></li>
-<li> <a href="https://movie-app-emre.netlify.app/" target="_blank" rel="noreferrer">Movie App</a></li>
+<li> <a href="https://movie-app-emre.netlify.app/" target="_blank" rel="noreferrer">Movie App</a> --- <a href="https://github.com/emredurgunlu/Movie-App" target="_blank" rel="noreferrer">Github Repo</a></li>
 <li> <a href="https://tutorial-app-emre.netlify.app/" target="_blank" rel="noreferrer">Todo App</a></li>
 <li> <a href="https://interview-questions-emre.netlify.app/" target="_blank" rel="noreferrer">Interview Questions</a></li>
 <li> <a href="https://doctor-appointment-react-app-emre.netlify.app/" target="_blank" rel="noreferrer">Doctor Appointment</a></li>
