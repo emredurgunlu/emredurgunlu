@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 - 📃 I write articles on [**Medium**](https://medium.com/@emredurgunlu)
 
 <details>
+<summary><big><strong>Click For Next JS Projects!</strong></big></summary>
+<ul>
+<li> <a href="https://nextjs-auth-cookie.vercel.app" target="_blank" rel="noreferrer">Auth and Cookie Sessions</a> --- <a href="https://github.com/emredurgunlu/Nextjs-Auth/tree/master" target="_blank" rel="noreferrer">Github Repo</a></li>
+<li> <a href="https://nextjs-portfolio-emre.vercel.app" target="_blank" rel="noreferrer">Portfolio</a> --- <a href="https://github.com/emredurgunlu/Nextjs-Portfolio/commits/master/" target="_blank" rel="noreferrer">Github Repo</a></li>
+</ul>
+</details>
+<details>
 <summary><big><strong>Click For React JS Projects!</strong></big></summary>
 <ul>
 <li> <a href="https://github.com/emredurgunlu/Stock-App-FrontEnd/" target="_blank" rel="noreferrer">Stock App</a></li>
@@ -32,7 +39,7 @@ Here are some ideas to get you started:
 </ul>
 </details>
 <details>
-<summary><big><strong>Click For JS Projects!</strong></big></summary>
+<summary><big><strong>Click For JavaScript Projects!</strong></big></summary>
 <ul>
 <li> <a href="https://emredurgunlu.github.io/Responsive-Image-Maps/" target="_blank" rel="noreferrer">Responsive Image Maps</a></li>
 <li> <a href="https://emredurgunlu.github.io/Password-Generator/" target="_blank" rel="noreferrer">Password Generator</a></li>
@@ -52,6 +59,14 @@ Here are some ideas to get you started:
 <li> <a href="https://emredurgunlu.github.io/Netflix-Form/" target="_blank" rel="noreferrer">Netflix Form</a></li>
 <li> <a href="https://emredurgunlu.github.io/Marvel-Biographies/" target="_blank" rel="noreferrer">Marvel Biographies</a></li>
 <li> <a href="https://emredurgunlu.github.io/Parallax-WebPage/" target="_blank" rel="noreferrer">Parallax WebPage</a></li>
+</ul>
+</details>
+<details>
+<summary><big><strong>Click For Blockchain Projects!</strong></big></summary>
+<ul>
+<li> <a href="https://github.com/emredurgunlu/Anchor-Metaplex-NFT" target="_blank" rel="noreferrer">NFT deployment on SOLANA Devnet - Rust Language</a></li>
+<li> <a href="https://github.com/emredurgunlu/rust_blockchain/commits/master/" target="_blank" rel="noreferrer">Basic blockchain implementation - Rust Language</a></li>
+<li> <a href="https://github.com/emredurgunlu/Patika-MerkleTree-Assignment/tree/main" target="_blank" rel="noreferrer">Merkle Tree - Rust Language</a></li>
 </ul>
 </details>
 
