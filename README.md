@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
-<a href="https://flutter.dev/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter" width="28" height="28"/> </a> 
+<a href="https://flutter.dev/" target="_blank" rel=”noopener”> <img src="https://storage.googleapis.com/cms-storage-bucket/flutter-logo-white.ec64036b4eacc9f3fd73.svg" alt="flutter" width="80"/> </a> 
 <a href="https://react.dev/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react js" width="35" height="28"/> </a> 
 <a href="https://redux-toolkit.js.org/" target="_blank" rel=”noopener”> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="redux" width="40" height="35"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel=”noopener”> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="next js" width="60" height="30"/> </a>
